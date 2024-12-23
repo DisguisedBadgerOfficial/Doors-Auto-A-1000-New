@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DisguisedBadgerOfficial/Doors-Auto-A-1000-New/refs/heads/main/Doors%20Auto%20A-1000%20New%20Script.lua",true))()
